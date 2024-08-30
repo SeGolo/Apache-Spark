@@ -1,0 +1,11 @@
+RDD
+
+Resilient (elastic):
+  > Fault-tolerant
+  > DAG - Directed Acyclic Graph
+
+Distributed:
+  > Computed across multiple nodes
+
+Dataset
+  > Collection of partitioned data
